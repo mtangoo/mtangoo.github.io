@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['tableexists',['TableExists',['../classwx_database.html#a9eeed22b4a195e4df39a6666129b4af0',1,'wxDatabase::TableExists()'],['../classwx_mysql_database.html#adc3b6b6a291465728adb95471779f275',1,'wxMysqlDatabase::TableExists()'],['../classwx_odbc_database.html#a1d03684434d9b4dadb4ff40ae0a8ac5d',1,'wxOdbcDatabase::TableExists()'],['../classwx_postgres_database.html#acf0d478b518ba33828fa6809c42fc90a',1,'wxPostgresDatabase::TableExists()'],['../classwx_sqlite_database.html#acd62f5eba98712fe906db5f8aed39417',1,'wxSqliteDatabase::TableExists()'],['../classwx_tds_database.html#a65c708ccf89039068b25bb0517d36c75',1,'wxTdsDatabase::TableExists()']]],
+  ['throwdatabaseexception',['ThrowDatabaseException',['../classwx_database_error_reporter.html#a79c936df5c6b39d23ebf08e568fe0756',1,'wxDatabaseErrorReporter']]],
+  ['translateerrorcode',['TranslateErrorCode',['../classwx_mysql_database.html#ade6f3f0fd89d7062dd4b4a0b148e50ab',1,'wxMysqlDatabase::TranslateErrorCode()'],['../classwx_postgres_database.html#a2406a29c31e095dd850b9fba83ec150d',1,'wxPostgresDatabase::TranslateErrorCode()'],['../classwx_sqlite_database.html#a2eea11d9bf4ea79f32dec055f977d769',1,'wxSqliteDatabase::TranslateErrorCode()'],['../classwx_tds_database.html#a49e4238725d28ff98534694d55f5d7da',1,'wxTdsDatabase::TranslateErrorCode()']]],
+  ['translatesql',['TranslateSQL',['../classwx_postgres_prepared_statement.html#a44431bef0a65e9a6a43211fa58056d07',1,'wxPostgresPreparedStatement']]]
+];
